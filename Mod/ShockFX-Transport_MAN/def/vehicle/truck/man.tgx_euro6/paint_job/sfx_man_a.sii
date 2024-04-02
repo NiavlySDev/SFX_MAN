@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data: sfx_man_a.man.tgx_euro6.paint_job
+{
+@include "sfx_man_settings.sui"
+	suitable_for[]: "xxl_cab.man.tgx_euro6.cabin"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX Euro 6/Cabin A (XXL).tobj"
+}
+}

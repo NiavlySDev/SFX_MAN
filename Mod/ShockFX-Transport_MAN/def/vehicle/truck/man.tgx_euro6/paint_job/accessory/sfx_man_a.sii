@@ -1,0 +1,63 @@
+SiiNunit
+{
+
+simple_paint_job_data: .ovr0
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX Euro 6/Sideskirts (4x).tobj"
+	acc_list[]: "sideskirt.paint_4x2"
+	acc_list[]: "sideskirt.stock_4x2"
+}
+
+simple_paint_job_data: .ovr1
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX Euro 6/Sideskirts (6x2 Long).tobj"
+	acc_list[]: "sideskirt.paint_6x2_2"
+	acc_list[]: "sideskirt.stock_6x2_2"
+}
+
+simple_paint_job_data: .ovr2
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX Euro 6/Sideskirts (6x2 Short).tobj"
+	acc_list[]: "sideskirt.paint_6x22"
+	acc_list[]: "sideskirt.stock_6x22"
+	acc_list[]: "sideskirt.paint_6x24"
+	acc_list[]: "sideskirt.stock_6x24"
+}
+
+simple_paint_job_data: .ovr3
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX Euro 6/Sideskirts (6x4).tobj"
+	acc_list[]: "sideskirt.paint_6x4"
+	acc_list[]: "sideskirt.stock_6x4"
+}
+
+simple_paint_job_data: .ovr4
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX Euro 6/Sideskirts (8x).tobj"
+	acc_list[]: "sideskirt.paint_8x4"
+	acc_list[]: "sideskirt.stock_8x4"
+}
+
+simple_paint_job_data: .ovr5
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX Euro 6/Mirrors.tobj"
+	acc_list[]: "mirror.paint"
+}
+
+simple_paint_job_data: .ovr6
+{
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX Euro 6/Rear Fender.tobj"
+	acc_list[]: "r_fender.paint_4x2"
+	acc_list[]: "r_fender.paint_6x22"
+	acc_list[]: "r_fender.paint_6x24"
+	acc_list[]: "r_fender.paint_6x2_2"
+	acc_list[]: "r_fender.paint_6x4"
+	acc_list[]: "r_fender.paint_8x4"
+	acc_list[]: "r_fendr_top.paint_4x2"
+	acc_list[]: "r_fendr_top.paint_6x22"
+	acc_list[]: "r_fendr_top.paint_6x24"
+	acc_list[]: "r_fendr_top.paint_6x2_2"
+	acc_list[]: "r_fendr_top.paint_6x4"
+	acc_list[]: "r_fendr_top.paint_8x4"
+}
+}
