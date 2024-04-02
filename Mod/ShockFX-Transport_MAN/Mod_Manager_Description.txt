@@ -1,0 +1,11 @@
+Camions Supportés:
+MAN:
+- TGX:
+ - GN
+ - GM
+ - GX
+- TGX Euro 6:
+ - XL
+ - XLX
+ - XXL
+

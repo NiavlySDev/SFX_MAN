@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data: sfx_man_a.man.tgx_2020.paint_job
+{
+@include "sfx_man_settings.sui"
+	suitable_for[]: "gx.man.tgx_2020.cabin"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/MAN TGX/Cabin A (GX).tobj"
+}
+}
