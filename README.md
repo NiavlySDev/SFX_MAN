@@ -15,9 +15,9 @@ Peintures Euro Truck Simulator 2 pour les Camions MAN [ShockFX-Transport]
 **Télécharger**: https://github.com/NiavlySDev/SFX_MAN/releases/tag/1.0
 
 # Autres:
-**Changelog**: https://github.com/NiavlySDev/SFX_MAN/commits/1.0
-**DAF**: https://github.com/NiavlySDev/SFX_DAF
-**Volvo**: https://github.com/NiavlySDev/SFX_VOLVO
+- **Changelog**: https://github.com/NiavlySDev/SFX_MAN/commits/1.0
+- **DAF**: https://github.com/NiavlySDev/SFX_DAF
+- **Volvo**: https://github.com/NiavlySDev/SFX_VOLVO
 ## Applications utilisées:
-**Paint Job Packer**: https://sharemods.com/uv48qyjsr6nj/Paint-Job-Packer-v1.10.3-Windows.zip.html
-**Photoshop**: https://www.adobe.com/fr/products/photoshop
+- **Paint Job Packer**: https://sharemods.com/uv48qyjsr6nj/Paint-Job-Packer-v1.10.3-Windows.zip.html
+- **Photoshop**: https://www.adobe.com/fr/products/photoshop
