@@ -2,12 +2,12 @@
 Peintures pour les Camions MAN [ShockFX-Transport]
 
 # Camions Supportés:
-MAN:
+## MAN:
 - TGX:
  - GN
  - GM
  - GX
-TGX Euro 6:
+## TGX Euro 6:
  - XL
  - XLX
  - XXL
